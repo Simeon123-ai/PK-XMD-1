@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "pk~i9AhQa5D#psusjLIkJRonKBIwpkkhggIoy8i2KoulE0cd2tb2qVM"
     },
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
@@ -69,12 +69,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "SIMEON"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "2347046970033"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
